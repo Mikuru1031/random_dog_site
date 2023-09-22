@@ -1,0 +1,13 @@
+body {
+    background-color: black;
+    height: 90vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+@media (max-width: 600px) {
+    img {
+        width: 100%;
+    }
+}
